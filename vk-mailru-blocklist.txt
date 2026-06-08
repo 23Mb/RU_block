@@ -14,6 +14,7 @@
 *.mradx.net
 *.my.com
 *.my.mail.ru
+*.my.games
 *.mycdn.me
 *.mytarget.com
 *.mytarget.ru
@@ -93,6 +94,7 @@ max.ru
 mradx.net
 my.com
 my.mail.ru
+my.games
 mycdn.me
 mytarget.com
 mytarget.ru
